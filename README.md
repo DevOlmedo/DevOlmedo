@@ -3,7 +3,7 @@
 <p align="center">
   💻 Full Stack Developer <br/>
   🌱 Always learning and passionate about web technologies <br/>
-  🎯 Currently looking for my first opportunity in the tech industry
+  🎯 Currently looking for my first opportunity in the tech industry <br/>
   🤝 Cooperation: Open to collaborating on innovative projects and leveraging new opportunities for growth and impact.
 </p>
 

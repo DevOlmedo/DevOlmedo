@@ -1,9 +1,10 @@
 <h1 align="center">Hey there! I'm Joaquín Olmedo 👋💻</h1>
 
 <p align="center">
-  💻 Full Stack Developer trained at <strong>CoderHouse</strong> <br/>
+  💻 Full Stack Developer <br/>
   🌱 Always learning and passionate about web technologies <br/>
   🎯 Currently looking for my first opportunity in the tech industry
+  🤝 Cooperation: Open to collaborating on innovative projects and leveraging new opportunities for growth and impact.
 </p>
 
 ---

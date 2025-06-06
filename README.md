@@ -30,7 +30,7 @@ I’m currently looking for **my first job in tech**, where I can put my skills 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png)" height="40" alt="TailwindCSS" />
+  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png)](https://camo.githubusercontent.com/d532f200083065c5bd1d56b3d93efc3b8ae3ceb36c527dab2ae2771372293384/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f5461696c77696e645f4353535f4c6f676f2e7376672f35313270782d5461696c77696e645f4353535f4c6f676f2e7376672e706e67)" height="40" alt="TailwindCSS" />
 </p>
 
 ### Backend:

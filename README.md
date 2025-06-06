@@ -11,12 +11,11 @@
 
 ### 🧠 About Me
 
-I’m a **Full Stack Developer** with a strong motivation to grow, learn, and work on real-world projects.  
-I studied at **CoderHouse**, where I built solid foundations in modern web development.  
-I enjoy working on **any kind of project** — from small ideas to full-scale applications.  
-That said, I have a special interest in **E-commerce development**.
+I am a **Full Stack Developer** with a strong motivation to grow, learn, and work on real-world projects.
+I received my training at CoderHouse, where I built a solid foundation in modern web development.
+I enjoy working on a variety of projects, from small concepts to large-scale applications, with a particular interest in E-commerce development.
+I am always seeking opportunities to apply my knowledge, enhance my skills, and learn from experienced professionals in the tech industry.
 
-I’m currently looking for **my first job in tech**, where I can put my skills into practice and continue learning from experienced professionals.
 
 ---
 

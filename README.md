@@ -1,21 +1,19 @@
 <h1 align="center">Hey there! I'm Joaquín Olmedo 👋💻</h1>
 
 <p align="center">
-  💻 Full Stack Developer <br/>
-  🌱 Always learning and passionate about web technologies <br/>
-  🎯 Currently looking for my first opportunity in the tech industry <br/>
-  🤝 Cooperation: Open to collaborating on innovative projects and leveraging new opportunities for growth and impact.
+  💻 Full Stack Developer | 🎓 Systems Engineering Student <br/>
+  🌐 Passionate about building modern, efficient, and visually impactful web applications <br/>
+  🚀 Always curious, constantly learning, and ready to be part of the tech that changes the world.
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I am a **Full Stack Developer** with a strong motivation to grow, learn, and work on real-world projects.
-I received my training at CoderHouse, where I built a solid foundation in modern web development.
-I enjoy working on a variety of projects, from small concepts to large-scale applications, with a particular interest in E-commerce development.
-I am always seeking opportunities to apply my knowledge, enhance my skills, and learn from experienced professionals in the tech industry.
-
+I'm a **Full Stack Developer** with specialized training in modern web technologies like **React**, **Node.js**, and **database management**.  
+Currently, I’m pursuing a degree in **Systems Engineering**, deepening my understanding of system architecture and scalable design.  
+I’m passionate about creating **innovative and functional digital solutions** that deliver real value to end users.  
+I bring attention to detail, a hunger for learning, and a mindset focused on continuous growth to every project I tackle.
 
 ---
 
@@ -23,46 +21,47 @@ I am always seeking opportunities to apply my knowledge, enhance my skills, and 
 
 ### Frontend:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass" />
 </p>
 
 ### Backend:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" height="30" alt="Mongoose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="NestJS" />
 </p>
 
 ### DevOps & Tools:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </p>
 
 ### Currently Learning:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
 </p>
 
 ---
 
 ### 📫 Contact Me
 
-- Email: **jo6084411@gmail.com**
+- Email: **joaquinolmedo1214@gmail.com**
 - [Portfolio (Coming Soon)]()
 - [LinkedIn (Coming Soon)]()
 
 ---
 
-<!-- Optional footer or quote -->
 <p align="center">"The best way to learn is by building." 🚀</p>
+
